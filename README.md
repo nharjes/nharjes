@@ -25,12 +25,10 @@
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
-
 <td align="center" width="96">
 <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="40" height="40" />
       <br>JavaScript     
 </td>
-
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5" />
       <br>HTML5
@@ -38,15 +36,15 @@
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="css" />
       <br>CSS
-  </td>
+</td>
 <td align="center" width="96">
 <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="40" height="40" />
       <br>React
- </td>
-    <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB" />
-      <br>MongoDB
 </td>
+<td align="center" width="96">
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+      <br>Tailwind
+ </td>
  <td align="center" width="96">
  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="40" height="40" />
       <br>AWS
@@ -54,16 +52,18 @@
 <td align="center" width="96">  
 <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VsCode" />
       <br>VsCode
- </td>
-  <td align="center" width="96">
-<img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="40" height="40" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="40" height="40" />
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=firebase" alt="icon" width="40" height="40" />
+      <br>Firebase
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="40" height="40" />
       <br>Github
-    </td>
- </tr>
+</td>
+</tr>
        </table>
 </div>
+
+
 
