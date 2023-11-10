@@ -2,7 +2,7 @@
 [![An image of @nilsharjes's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nharjes)](https://holopin.io/@nharjes)
 
 
-<h1 align="center">Hi 👋, I am Nils </h1>
+<h1 align="center">Hi 👋, I am  </h1>
 
 <h3 align="center">an aspiring Web Developer from Germany </h3> 
 
