@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I am Nils </h1>
 
-<h3 align="center">former sports teacher turned web developer. </h3> 
+<h3 align="center">a former sports teacher turned web developer. </h3> 
 
 <br />
 
