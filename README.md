@@ -8,7 +8,7 @@
 <br />
 
 
-🍕 I'm not just an aspiring developer; I'm also a pizza addict! When I'm not coding, you'll likely find me savoring a slice of my favorite pizza.
+🍕 I'm not just an aspiring developer; I'm also a pizza addict! When not coding, you'll likely find me savoring a slice of my favorite pizza.
 
 ☕ I'm a coffee connoisseur. There's nothing like a good cup of coffee to fuel my coding sessions and keep me inspired.
 
