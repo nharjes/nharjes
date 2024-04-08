@@ -56,8 +56,8 @@
       <br>VsCode
 </td>
 <td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="40" height="40" />
-      <br>Github
+<img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="40" height="40" />
+      <br>C#
 </td>
 </tr>
        </table>
