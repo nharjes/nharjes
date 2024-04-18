@@ -48,8 +48,8 @@
       <br>Azure
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=firebase" alt="icon" width="40" height="40" />
-      <br>Firebase
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="40" height="40" />
+      <br>SQL
 </td>
 <td align="center" width="96">  
 <img src="https://skillicons.dev/icons?i=linux" width="40" height="40" alt="Linux" />
