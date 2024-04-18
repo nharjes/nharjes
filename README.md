@@ -44,16 +44,16 @@
       <br>Tailwind
  </td>
  <td align="center" width="96">
- <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="40" height="40" />
-      <br>AWS
+ <img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="40" height="40" />
+      <br>Azure
 </td>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=firebase" alt="icon" width="40" height="40" />
       <br>Firebase
 </td>
 <td align="center" width="96">  
-<img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VsCode" />
-      <br>VsCode
+<img src="https://skillicons.dev/icons?i=linux" width="40" height="40" alt="Linux" />
+      <br>Linux
 </td>
 <td align="center" width="96">
 <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="40" height="40" />
