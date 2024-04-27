@@ -10,7 +10,7 @@
 
 🍕but... I'm not just an admin; I'm also a pizza addict! When not networking, you'll likely find me enjoying a slice of my favorite pizza.
 
-☕ I'm a coffee connoisseur. There's nothing like a good cup of coffee to fuel my diverse tech projects and keep me inspired.
+☕ I'm a coffee connoisseur. There's nothing like a good cup of coffee to fuel my tech projects and keep me inspired.
 
 🏀 I'm a huge NBA fan. Whether it's watching the games or keeping up with the latest stats, I'm always up for some basketball talk.
 
