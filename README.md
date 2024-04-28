@@ -3,12 +3,12 @@
 
 <h1 align="center">Hi 👋, I am Nils </h1>
 
-<h3 align="center"> an aspiring network administrator with a passion for web development </h3> 
+<h3 align="center"> an aspiring network administrator with a passion for web development. </h3> 
 
 <br />
 
 
-🍕but... I'm not just an admin; I'm also a pizza addict! When not networking, you'll likely find me enjoying a slice of my favorite pizza.
+🍕But... I'm not just an admin; I'm also a pizza addict! When not networking, you'll likely find me enjoying a slice of my favorite pizza.
 
 ☕ I'm a coffee connoisseur. There's nothing like a good cup of coffee to fuel my tech projects and keep me inspired.
 
