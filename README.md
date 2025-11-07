@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I am Nils </h1>
 
-<h3 align="center"> an network administrator with a passion for web development. </h3> 
+<h3 align="center"> a network administrator with a passion for web development. </h3> 
 
 <br />
 
