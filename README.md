@@ -14,8 +14,6 @@
 
 🏀 I'm a huge NBA fan. Whether it's watching the games or keeping up with the latest stats, I'm always up for some basketball talk.
 
-🤝 I embrace collaboration and networking opportunities while continually expanding my expertise in the diverse field of IT.
-
 
 <b />
 
